@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kamalkishorm/Blockchain_SupplyChain.git"
+    "url": "git+https://github.com/Apoorv-cloud/Trusted-Tech.git"
   },
   "keywords": [
     "blockahin",
@@ -33,10 +33,10 @@
     "metamask",
     "smart-contracts"
   ],
-  "author": "Kamal Kishor Mehra",
+  "author": "Apoorv Maheshwari",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kamalkishorm/Blockchain_SupplyChain/issues"
+    "url": "https://github.com/Apoorv-cloud/Trusted-Tech.git/issues"
   },
-  "homepage": "https://github.com/kamalkishorm/Blockchain_SupplyChain#readme"
+  "homepage": "https://github.com/Apoorv-cloud/Trusted-Tech.git#readme"
 }
