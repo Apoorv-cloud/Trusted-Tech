@@ -1,7 +1,7 @@
 {
   "name": "blockchain_supplychain",
   "version": "1.0.0",
-  "description": "Pharmaceutical SupplyChain using Ethereum Blockchain Network.",
+  "description": "Trusted-Tech using Ethereum Blockchain Network.",
   "main": "truffle-config.js",
   "directories": {
     "doc": "docs",
